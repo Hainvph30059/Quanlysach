@@ -68,12 +68,12 @@ namespace QuanLySach
                     {
                         while (reader.Read())
                             del(reader["UserName"].ToString(), reader["PowerAcount"].ToString());
-                        if ((bool)data == true)
+                        if (data != null && (bool)data == true)
                         {
                             service.Show();
                             reader.Close();
                         }
-                        else if ((bool)data == false)
+                        else if (data != null && (bool)data == false)
                         {
                             service.Show();
                             reader.Close();
