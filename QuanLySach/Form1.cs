@@ -45,31 +45,44 @@ namespace QuanLySach
                 {
                     // bắt đầu chạy csdl
                     connect.Open();
-                   // trả về đối tượng là các dòng kết quả của câu truy vấn
+                    // trả về đối tượng là các dòng kết quả của câu truy vấn
                     object data = cmd.ExecuteScalar();
                     //nếu đối tượng data có tồn tại dòng thì.
                     SqlDataReader reader = cmd1.ExecuteReader();
                     Service service = new Service();
                     delPassData del = new delPassData(service.funData);
 
-                    while (reader.Read())      
-                        del(reader["UserName"].ToString(), reader["PowerAcount"].ToString());
-                    if ((bool)data == true)
+                    if (txtUserName.Text == "")
                     {
-                        MessageBox.Show("Đăng nhập thành công1", "Thông báo");
-                        service.Show();
-                        reader.Close();
+                        MessageBox.Show("UserName không được bỏ trống");
+                        txtUserName.Focus();
+                        txtUserName.BackColor = Color.LightSteelBlue;
                     }
-                    else if ((bool)data == false)
+                    else if (txtPassword.Text == "")
                     {
-                        MessageBox.Show("Đăng nhập thành công", "Thông báo");
-                        service.Show();
-                        reader.Close();
+                        MessageBox.Show("Password không được bỏ trống");
+                        txtPassword.Focus();
+                        txtPassword.BackColor = Color.LightSteelBlue;
                     }
                     else
                     {
-                        MessageBox.Show("Đăng nhập thất bại, tên đăng nhập hoặc mật khẩu không đúng", "Thông báo",
-                           MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        while (reader.Read())
+                            del(reader["UserName"].ToString(), reader["PowerAcount"].ToString());
+                        if ((bool)data == true)
+                        {
+                            service.Show();
+                            reader.Close();
+                        }
+                        else if ((bool)data == false)
+                        {
+                            service.Show();
+                            reader.Close();
+                        }
+                        else
+                        {
+                            MessageBox.Show("Đăng nhập thất bại, tên đăng nhập hoặc mật khẩu không đúng", "Thông báo",
+                               MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
                     }
                 }
                 catch (Exception ex)
@@ -77,7 +90,7 @@ namespace QuanLySach
                     MessageBox.Show("Lỗi kết nối đến máy chủ: " + ex.Message);
 
                 }
-                finally { connect.Close();}
+                finally { connect.Close(); }
                 
             }
         }

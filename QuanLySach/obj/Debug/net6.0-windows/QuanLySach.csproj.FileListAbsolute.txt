@@ -24,3 +24,55 @@ D:\Hoc_codeC#\QuanLySach\QuanLySach\bin\Debug\net6.0-windows\runtimes\unix\lib\n
 D:\Hoc_codeC#\QuanLySach\QuanLySach\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Hoc_codeC#\QuanLySach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.csproj.CopyComplete
 D:\Hoc_codeC#\QuanLySach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.Service.resources
+C:\Users\Admin\Desktop\New folder\QuanLySach\bin\Debug\net6.0-windows\QuanLySach.exe
+C:\Users\Admin\Desktop\New folder\QuanLySach\bin\Debug\net6.0-windows\QuanLySach.deps.json
+C:\Users\Admin\Desktop\New folder\QuanLySach\bin\Debug\net6.0-windows\QuanLySach.runtimeconfig.json
+C:\Users\Admin\Desktop\New folder\QuanLySach\bin\Debug\net6.0-windows\QuanLySach.dll
+C:\Users\Admin\Desktop\New folder\QuanLySach\bin\Debug\net6.0-windows\QuanLySach.pdb
+C:\Users\Admin\Desktop\New folder\QuanLySach\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\QuanLySach\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\New folder\QuanLySach\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\New folder\QuanLySach\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\New folder\QuanLySach\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\QuanLySach\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.Form1.resources
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.Service.resources
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.dll
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\refint\QuanLySach.dll
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.pdb
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.genruntimeconfig.cache
+C:\Users\Admin\Desktop\New folder\QuanLySach\obj\Debug\net6.0-windows\ref\QuanLySach.dll
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\bin\Debug\net6.0-windows\QuanLySach.exe
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\bin\Debug\net6.0-windows\QuanLySach.deps.json
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\bin\Debug\net6.0-windows\QuanLySach.runtimeconfig.json
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\bin\Debug\net6.0-windows\QuanLySach.dll
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\bin\Debug\net6.0-windows\QuanLySach.pdb
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.Form1.resources
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.Properties.Resources.resources
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.Service.resources
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.csproj.CopyComplete
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.dll
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\refint\QuanLySach.dll
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.pdb
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\QuanLySach.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Quanlysach\QuanLySach\obj\Debug\net6.0-windows\ref\QuanLySach.dll
